@@ -1,0 +1,8 @@
+git init --> Sirve para iniciar un proyecto que siga git quiere decir que va establecer el ara de pruebas y el cortrol local
+git add --> Sirve para agregar un seguimiento a los documentos que queremosos que siga 
+git status -s --> Sirve para ver los estados de los documentos que no estan en seguimiento o modificaciones que se encuentran en el are de pruebas
+git commit -m "descripscion de version" --> nos sirve para guardar en el cortrol local la version mas reciente con su descripscion
+git  log --oneline --> Sirve para ver como se encuentran las vrsiones dentro de el control local
+git reset --hard --> Sirve  para regresar a una version en concreto segun el codigo de la version
+git add . --> Esto agrega todos los documentos de nuestro proyecto a seguimiento de git 
+git commit -am -> Son dos comandos en uno git add y commit 

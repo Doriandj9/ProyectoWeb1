@@ -13,3 +13,4 @@ git push tags --> Nos permite subir nuestra etiqueta a remoto en github
 git branch (nombre de la rama) --> sirve para crear ramas en el proyecto
 git branch --> Nos permite ver las ramas creadas y en cual nos encontramos
 git checkout (nombre de la rama) --> Nos permite cambiar nuestro flujo de trabajo a una rama en especifico
+git push --set-upstream origin master --> Si existen problemas al intentar subir a la rama master este el codigo para resolverlo 

@@ -3,8 +3,10 @@ git add --> Sirve para agregar un seguimiento a los documentos que queremosos qu
 git status -s --> Sirve para ver los estados de los documentos que no estan en seguimiento o modificaciones que se encuentran en el are de pruebas
 git commit -m "descripscion de version" --> nos sirve para guardar en el cortrol local la version mas reciente con su descripscion
 git  log --oneline --> Sirve para ver como se encuentran las vrsiones dentro de el control local
-git reset --hard --> Sirve  para regresar a una version en concreto segun el codigo de la version
+git reset --hard (codigo)--> Sirve  para regresar a una version en concreto segun el codigo de la version
 git add . --> Esto agrega todos los documentos de nuestro proyecto a seguimiento de git 
 git commit -am -> Son dos comandos en uno git add y commit 
 git push master --> Sirve para subir los archivos al repositorio github
 git pull origin master --> Sirve para regresar los datos modificados desde el repositorio hasta la pc donde se tiene guardado
+git tag (descripscion de version) 30/04/2021v1 -m "Esta es la primera version de la pagina web" --> sirve para realizar versiones de nuestro software 
+git push tags --> Nos permite subir nuestra etiqueta a remoto en github 

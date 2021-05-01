@@ -7,3 +7,4 @@ git reset --hard --> Sirve  para regresar a una version en concreto segun el cod
 git add . --> Esto agrega todos los documentos de nuestro proyecto a seguimiento de git 
 git commit -am -> Son dos comandos en uno git add y commit 
 git push master --> Sirve para subir los archivos al repositorio github
+git pull origin master --> Sirve para regresar los datos modificados desde el repositorio hasta la pc donde se tiene guardado

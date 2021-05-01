@@ -10,3 +10,5 @@ git push master --> Sirve para subir los archivos al repositorio github
 git pull origin master --> Sirve para regresar los datos modificados desde el repositorio hasta la pc donde se tiene guardado
 git tag (descripscion de version) 30/04/2021v1 -m "Esta es la primera version de la pagina web" --> sirve para realizar versiones de nuestro software 
 git push tags --> Nos permite subir nuestra etiqueta a remoto en github 
+git branch (nombre de la rama) --> sirve para crear ramas en el proyecto
+git branch --> Nos permite ver las ramas creadas y en cual nos encontramos 
